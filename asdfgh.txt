@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<title> SCANNER </title>
+	</head>
+	<body>
+		<form action="result.html" method="GET">
+			<div>
+				<label>Enter your First Name:</label>
+				<input name="My name is " required>
+			</div>
+			
+			<div>
+				<label>Enter your Middle Name:</label>
+				<input name=", " required>
+			</div>
+			
+			<div>
+				<label>Enter  your Last Name:</label>
+				<input name=", " required>
+			</div>
+			
+			<div>
+				<label>Enter your Age:</label>
+				<input>
+			</div>
+			
+			<div>
+				<label>Enter your Address:</label>
+				<input>
+			</div>
+			
+			<div>
+				<label>Prelim Grade:</label>
+				<input>
+			</div>
+			
+			<div>
+				<label>Midterm Grade:</label>
+				<input>
+			</div>
+			
+			<div>
+				<label>Final Grade:</label>
+				<input>
+			</div>
+			
+			<div>
+				<label>Prelim Grade:</label>
+				<input>
+			</div>
+			
+			<div>
+				<label>Average:</label>
+				<input>
+			</div>
+			
+			<div>
+				<label>Remarks:</label>
+				<input>
+			</div>
+			
+			<button>SUBMIT<button>
+		</form>
+	</body>
+</html>
+
